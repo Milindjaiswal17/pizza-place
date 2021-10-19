@@ -1,0 +1,22 @@
+body::before{
+ 
+    height: 160%;
+    width: 100%;
+}
+
+#mid img{
+    height:40%px;
+    width: 90%;
+    margin:10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.box{
+    width: 45%;
+}
+
+#btn{
+    width: 75%;
+    padding: 2px 2px;
+}
